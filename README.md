@@ -1,4 +1,4 @@
-### autotune_matlab_ez
+# autotune
 ## autotune programm for dsp mini-course project
 ## written in matlab
-# simple stft and istft
+## simple stft and istft
